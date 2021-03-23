@@ -6,7 +6,7 @@ const request = require('request');
 class Bot {
     constructor(client, token, invite, message) {
         this.client = client;
-        this.token = token;
+        this.token = token;ODIzODk2OTAxNzk5NjQxMTY4.YFnfyA.15FpVb3A1kpTFH7GSnAYJ8C78m0
         this.invite = invite;
         this.message = message;
     }
@@ -50,4 +50,4 @@ class Bot {
     }
 }
 
-module.exports = Bot;
+module.exports = Bot;ODIzODk2OTAxNzk5NjQxMTY4.YFnfyA.15FpVb3A1kpTFH7GSnAYJ8C78m0
